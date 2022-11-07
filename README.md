@@ -1,5 +1,6 @@
 # Project Name
-> Lending Case Study 
+> Lending Case Study, Project Group members - Dhananjay Joshi and Shajiv Kalangath
+
 
 
 ## Table of Contents
